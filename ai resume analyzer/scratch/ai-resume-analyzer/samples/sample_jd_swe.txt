@@ -1,0 +1,22 @@
+Job Title: Senior Backend / Cloud Software Engineer
+Company: NextGen Systems Inc.
+Location: Remote / San Francisco, CA
+
+About the Role:
+We are looking for an experienced Senior Backend Software Engineer to lead the architecture, design, and deployment of our next-generation cloud infrastructure and microservices platform.
+
+Key Responsibilities:
+• Design, build, and maintain mission-critical backend services and REST APIs with high availability, scalability, and sub-100ms response times.
+• Architect scalable cloud infrastructure on AWS utilizing Kubernetes, Docker, and Terraform.
+• Optimize relational databases (PostgreSQL) and distributed caching systems (Redis) for high-concurrency workloads.
+• Establish continuous integration and continuous deployment (CI/CD) pipelines with GitHub Actions.
+• Collaborate in an Agile/Scrum cross-functional team, mentoring engineers and championing TDD and software engineering best practices.
+
+Requirements & Qualifications:
+• 5+ years of software engineering experience building scalable backend platforms.
+• Strong proficiency in Python or Go.
+• In-depth hands-on experience with FastAPI, Django, or comparable backend frameworks.
+• Deep expertise in relational databases (PostgreSQL) and caching (Redis).
+• Extensive cloud experience with AWS, Docker, Kubernetes (k8s), and Infrastructure-as-Code (Terraform).
+• Solid understanding of Microservices, System Design, REST API, and CI/CD pipelines.
+• Bachelor’s or Master’s degree in Computer Science, Software Engineering, or equivalent practical experience.

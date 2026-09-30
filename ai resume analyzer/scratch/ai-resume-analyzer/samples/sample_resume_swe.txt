@@ -1,0 +1,32 @@
+Alex Chen
+San Francisco, CA | alex.chen@example.com | (555) 342-9812
+LinkedIn: https://linkedin.com/in/alexchen-swe | GitHub: https://github.com/alexchen-dev
+
+PROFESSIONAL SUMMARY
+Senior Software Engineer with 6+ years of experience designing and scaling distributed backend systems, cloud architectures, and RESTful microservices. Proven track record of optimizing database performance, reducing infrastructure costs by 35%, and leading engineering pods in high-velocity agile environments.
+
+TECHNICAL SKILLS
+• Programming Languages: Python, Go, TypeScript, JavaScript, SQL, Bash
+• Frameworks & Web: FastAPI, Django, Flask, Node.js, Express.js, React, REST API, GraphQL
+• Cloud & DevOps: AWS (EC2, S3, RDS, Lambda), Docker, Kubernetes, Terraform, GitHub Actions, CI/CD, Linux
+• Databases & Storage: PostgreSQL, Redis, MongoDB, Elasticsearch
+• Methodologies: Microservices, System Design, Agile, Scrum, TDD, Unit Testing
+
+WORK EXPERIENCE
+Senior Backend Engineer | CloudScale Solutions | 2022 - Present
+• Architected and deployed 8 resilient microservices using Python and FastAPI, serving over 15M daily requests with 99.98% uptime.
+• Optimized PostgreSQL query execution plans and implemented Redis distributed caching, slashing p99 API latency by 45% (from 620ms to 340ms).
+• Spearheaded containerization migration across 24 legacy services using Docker and Kubernetes, reducing AWS compute expenditure by $120,000 annually.
+• Automated end-to-end CI/CD deployment pipelines with GitHub Actions and Terraform, accelerating release frequency from bi-weekly to multiple daily deployments.
+• Mentored 5 junior and mid-level software engineers on system design patterns, clean architecture, and rigorous test-driven development.
+
+Software Engineer | Apex FinTech | 2019 - 2022
+• Developed transactional payments ingestion API utilizing Python, Django, and Celery, processing over $4.5M in daily transactions securely.
+• Engineered distributed pub/sub event pipeline using Redis and PostgreSQL, ensuring idempotent event handling and zero financial transaction loss.
+• Collaborated with frontend engineers to build responsive internal analytics dashboard in React and TypeScript.
+• Formulated comprehensive unit and integration test suites with Pytest, increasing test coverage from 64% to 92%.
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of California, Berkeley | 2015 - 2019
+• Dean's Honor List, Cum Laude

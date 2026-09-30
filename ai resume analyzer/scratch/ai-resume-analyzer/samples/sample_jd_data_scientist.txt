@@ -1,0 +1,22 @@
+Job Title: Senior Data Scientist / Machine Learning Engineer
+Company: CognitiveAI Labs
+Location: New York, NY / Hybrid
+
+Role Overview:
+CognitiveAI Labs is seeking a talented Data Scientist / Machine Learning Engineer to design, train, and productionize state-of-the-art machine learning models and Generative AI applications.
+
+Responsibilities:
+• Develop predictive models, Natural Language Processing (NLP) systems, and deep learning architectures to power enterprise AI products.
+• Collaborate with data engineers to scale data processing pipelines using Apache Spark, PySpark, and BigQuery.
+• Fine-tune and deploy Large Language Models (LLMs) and vector search pipelines using PyTorch and Hugging Face.
+• Build automated continuous training and model monitoring pipelines using MLflow, Airflow, and Docker on AWS or Google Cloud (GCP).
+• Design and analyze A/B experiments to evaluate production algorithmic performance and business ROI.
+
+Required Qualifications:
+• 3+ years of professional industry experience in Data Science or Machine Learning engineering.
+• Advanced proficiency in Python and SQL.
+• Deep expertise with ML frameworks: PyTorch, TensorFlow, or Scikit-Learn.
+• Proven track record with Natural Language Processing (NLP) and modern LLMs.
+• Experience processing large datasets with Apache Spark or PySpark, and data warehouses like BigQuery or Snowflake.
+• Familiarity with containerization (Docker) and cloud environments (AWS, GCP).
+• Degree (BS, MS, or PhD) in Data Science, Computer Science, Statistics, Mathematics, or a quantitative discipline.

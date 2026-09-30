@@ -1,0 +1,31 @@
+Maya Patel
+New York, NY | maya.patel.ai@example.com | (555) 789-2341
+LinkedIn: https://linkedin.com/in/mayapatel-ai | GitHub: https://github.com/mayapatel-ds
+
+PROFESSIONAL SUMMARY
+Data Scientist & Machine Learning Practitioner with 4+ years of experience developing predictive statistical models, deep learning architectures, and production ML pipelines. Specialized in NLP, customer segmentation, and feature engineering, generating over $2.1M in measurable operational cost reductions.
+
+TECHNICAL SKILLS
+• Programming: Python, R, SQL, Bash
+• Machine Learning & AI: Machine Learning, Deep Learning, NLP, Scikit-Learn, PyTorch, TensorFlow, Pandas, NumPy
+• Big Data & Cloud: Apache Spark, PySpark, BigQuery, AWS, Docker
+• Databases & Tools: PostgreSQL, Git, Tableau, Jupyter, MLflow, Airflow
+
+WORK EXPERIENCE
+Machine Learning Engineer | DataCore Analytics | 2022 - Present
+• Engineered end-to-end NLP sentiment classification and topic extraction pipeline with PyTorch and Transformers, analyzing 800,000+ customer reviews weekly.
+• Deployed production model inference API in Docker container on AWS, maintaining 99.9% uptime and handling 250 requests/sec with under 80ms latency.
+• Partnered with product managers to develop customer lifetime value (LTV) predictive model using Scikit-Learn and XGBoost, improving forecast accuracy by 28%.
+• Automated daily batch feature extraction workflows using PySpark and BigQuery, cutting data transformation runtime by 40%.
+
+Data Scientist | RetailMetrics Group | 2020 - 2022
+• Constructed recommendation engine using collaborative filtering and matrix factorization, lifting online checkout conversion rate by 14.5% ($1.2M revenue increase).
+• Conducted rigorous A/B testing and hypothesis testing across 1.5M active users to validate personalized promo pricing models.
+• Developed executive-facing interactive business intelligence dashboards in Tableau and SQL, democratizing self-serve reporting for 80+ stakeholders.
+
+EDUCATION
+Master of Science in Data Science
+Columbia University | 2018 - 2020
+
+Bachelor of Science in Statistics
+University of Michigan | 2014 - 2018
